@@ -2,7 +2,7 @@ Electrical Engineer graduated from (UFC - Universidade Federal do Ceara) (2020),
 Has knowledge in Machine Learning, Digital Image Processing using Python and Convolutional Neural Networks (CNN)
 Has Scrum Foundations Professional Certificate [SFPC] (Jun/2020) - by CertiProf
 
-I'm interested in Data Science, Machine Learning and Artificial Intelligence
+I'm interested in Data Science, Machine Learning, Artificial Intelligence and Cyber Security.
 
 LinkedIn: https://www.linkedin.com/in/alanmarquesrocha/
 
