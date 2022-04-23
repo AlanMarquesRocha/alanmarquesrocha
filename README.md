@@ -19,7 +19,7 @@ Como Trabalho Final de Curso (TCC), desenvolvi um método de baixo custo para _*
 
 O arquivo completo do TCC pode ser visualizado [**nesse link.**](https://drive.google.com/file/d/1GnKpGAPOuEervRGEGoxBaOFPjrO14g7_/view?usp=sharing)
 
-Já o repositório do projeto com todos os códigos e resultados você encontra [aqui](#ref).
+Já o repositório do projeto com todos os códigos e resultados você encontra [**aqui**](#ref).
 
 
 ## Por fim, estou me desenvolvendo nas seguintes áreas: ##
