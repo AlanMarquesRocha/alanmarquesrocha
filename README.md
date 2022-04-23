@@ -27,7 +27,7 @@ Já o repositório do projeto com todos os códigos e resultados você encontra 
 1. Machine Learning,
 2. Processamento Digital de Imagens utilizando:
     + Python
-    +Redes Neurais Convolucionais (CNN)
+    + Redes Neurais Convolucionais (CNN)
 3. Inteligência Artificial,
 4. Segurança da Informação.
 
