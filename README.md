@@ -1,20 +1,48 @@
-**Electrical Engineer** graduated from (UFC - Universidade Federal do Ceara) (2020). Has knowledge in Data Analysis using tools such as:
+# Sobre mim (About me): #
 
-1. Excel
-2. Power BI
+**Engenheiro Eletricista** formado pela Universidade Federal do Ceará (2020), possuindo sólidos conhecimentos nas seguintes áreas:
 
-And data visualization using:
+1. Sistemas Fotovoltaicos;
+2. Sistemas de Distribuição de Energia Elétrica;
+3. Projetos de Instalações elétricas:
+    + Residenciais,
+    + Prediais,
+    + Industriais,
+4. Projetos de Múltiplas Unidades Consumidoras (PMUC);
+5. Subestações aérea e abrigada.
+6. Eletrônica de Potência
+7. Dentre outras que não caberiam aqui (rs).
 
-1. Python
-2. R
+Sou aspirante à **Cientista de Dados**, realizando análises utilizando as seguintes linguagens: ``python`` e ``R``.
 
-Developed a low-cost method for fault detection in photovoltaic module cells, analyzing images through computer vision and image processing techniques.
-Has knowledge in Machine Learning, Digital Image Processing using Python and Convolutional Neural Networks (CNN)
-Has Scrum Foundations Professional Certificate [SFPC] (Jun/2020) - by CertiProf
+Como Trabalho Final de Curso (TCC), desenvolvi um método de baixo custo para _**Detecção de Falhas em Células de Módulos Fotovoltaicos Utilizando Visão Computacional.**_
 
-I'm interested in Data Science, Machine Learning, Artificial Intelligence and Cyber Security.
+O arquivo completo do TCC pode ser visualizado [**nesse link.**](https://drive.google.com/file/d/1GnKpGAPOuEervRGEGoxBaOFPjrO14g7_/view?usp=sharing)
 
-LinkedIn: https://www.linkedin.com/in/alanmarquesrocha/
+Já o repositório do projeto com todos os códigos e resultados você encontra [aqui](#ref).
+
+
+## Por fim, mas não menos importante, estou me desenvolvendo nas seguintes áreas: ##
+
+1. Machine Learning,
+2. Processamento Digital de Imagens utilizando:
+    + Python
+    +Redes Neurais Convolucionais (CNN)
+3. Inteligência Artificial,
+4. Segurança da Informação.
+
+# Alguns links importantes: #
+
+## Quer se conectar no meu perfil profissional no LinkedIn? ##
+
+**Basta clicar [aqui:](https://www.linkedin.com/in/alanmarquesrocha/)
+
+## Quer dar uma olhada no meu portfólio e ver o que já desenvolvi ou no que estou trabalhando? ##
+
+**Basta clicar [aqui:](#href).
+
+
+
 
 <!---
 AlanMarquesRocha/AlanMarquesRocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
