@@ -1,4 +1,14 @@
-Electrical Engineer graduated from (UFC - Universidade Federal do Ceara) (2020). Has knowledge in Data Analysis using tools such as Excel, Power BI and data visualization using Python, R (R studio). Developed a low-cost method for fault detection in photovoltaic module cells, analyzing images through computer vision and image processing techniques.
+**Electrical Engineer** graduated from (UFC - Universidade Federal do Ceara) (2020). Has knowledge in Data Analysis using tools such as:
+
+1. Excel
+2. Power BI
+
+And data visualization using:
+
+1. Python
+2. R
+
+Developed a low-cost method for fault detection in photovoltaic module cells, analyzing images through computer vision and image processing techniques.
 Has knowledge in Machine Learning, Digital Image Processing using Python and Convolutional Neural Networks (CNN)
 Has Scrum Foundations Professional Certificate [SFPC] (Jun/2020) - by CertiProf
 
