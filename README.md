@@ -1,6 +1,6 @@
 # Sobre mim (About me): #
 
-**Engenheiro Eletricista** formado pela Universidade Federal do Ceará (2020), possuindo sólidos conhecimentos nas seguintes áreas:
+**Engenheiro Eletricista** formado pela Universidade Federal do Ceará (2020) com ênfase em _Eletrotécnica_ e _Computação_, possuindo sólidos conhecimentos nas seguintes áreas:
 
 1. Sistemas Fotovoltaicos;
 2. Sistemas de Distribuição de Energia Elétrica;
@@ -22,7 +22,7 @@ O arquivo completo do TCC pode ser visualizado [**nesse link.**](https://drive.g
 Já o repositório do projeto com todos os códigos e resultados você encontra [aqui](#ref).
 
 
-## Por fim, mas não menos importante, estou me desenvolvendo nas seguintes áreas: ##
+## Por fim, estou me desenvolvendo nas seguintes áreas: ##
 
 1. Machine Learning,
 2. Processamento Digital de Imagens utilizando:
@@ -35,11 +35,11 @@ Já o repositório do projeto com todos os códigos e resultados você encontra 
 
 ## Quer se conectar no meu perfil profissional no LinkedIn? ##
 
-**Basta clicar [aqui:](https://www.linkedin.com/in/alanmarquesrocha/)
+**Basta acessar [LinkedIn.](https://www.linkedin.com/in/alanmarquesrocha/)**
 
 ## Quer dar uma olhada no meu portfólio e ver o que já desenvolvi ou no que estou trabalhando? ##
 
-**Basta clicar [aqui:](#href).
+**Basta clicar [aqui](#href)**.
 
 
 
