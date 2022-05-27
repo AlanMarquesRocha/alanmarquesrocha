@@ -6,20 +6,20 @@
 1. Sistemas Fotovoltaicos;
 2. Sistemas de Distribuição de Energia Elétrica;
 3. Projetos de Instalações elétricas:
-    + Residenciais,
-    + Prediais,
-    + Industriais,
+    - Residenciais,
+    - Prediais,
+    - Industriais,
 4. Projetos de Múltiplas Unidades Consumidoras (PMUC);
 5. Subestações aérea e abrigada.
 6. Eletrônica de Potência
 7. Dentre outras que não caberiam aqui (rs).
 ```
 
-Sou um **Cientista de Dados**, realizando análises utilizando prioritariamente as seguintes linguagens: ``python`` e ``R``, com base em estatística, álgebra e técnicas de Machine Learning.
+Além de Engenheiro Eletricista, encontro-me em processo de qualificação profissional para me tornar **Cientista de Dados**, tendo como base a Estatística, Machine Learning e Analytics.
 
 Como Trabalho Final de Curso (TCC), desenvolvi um método de baixo custo para _**Detecção de Falhas em Células de Módulos Fotovoltaicos Utilizando Visão Computacional.**_
 
-O arquivo completo do TCC pode ser visualizado [**nesse link.**](https://drive.google.com/file/d/1GnKpGAPOuEervRGEGoxBaOFPjrO14g7_/view?usp=sharing)
+O trabalho completo pode ser visualizado [**nesse link.**](https://drive.google.com/file/d/1GnKpGAPOuEervRGEGoxBaOFPjrO14g7_/view?usp=sharing)
 
 Já o repositório do projeto com todos os códigos e resultados você encontra [**aqui**](#ref).
 
@@ -28,10 +28,9 @@ Já o repositório do projeto com todos os códigos e resultados você encontra 
 
 ```
 1. Machine Learning,
-2. Banco de Dados,
-3. Processamento Digital de Imagens utilizando:
-    + Python
-    + Redes Neurais Convolucionais (CNN)
+2. Banco de Dados (SQL),
+3. Processamento Digital de Imagens,
+4. Python e R,
 4. Inteligência Artificial,
 5. Segurança da Informação.
 ```
