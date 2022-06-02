@@ -37,8 +37,8 @@ Já o repositório do projeto com todos os códigos e resultados você encontra 
 
 <div>
   <a href="https://github.com/alexfelipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmarquesrocha&layout=compact&theme=highcontrast " />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmarquesrocha&show_icons=true&theme=highcontrast" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmarquesrocha&layout=compact&theme=highcontrast " />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=alanmarquesrocha&show_icons=true&theme=highcontrast" />
   </a>
 </div>
 
