@@ -38,7 +38,7 @@ Já o repositório do projeto com todos os códigos e resultados você encontra 
   </a>
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+<img width="101%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <!---
 AlanMarquesRocha/AlanMarquesRocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
