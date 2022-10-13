@@ -11,7 +11,7 @@
 
 ## Sobre mim (About me): ##
 
-**Engenheiro Eletricista** formado pela Universidade Federal do Ceará (2020) com ênfase em _Eletrotécnica_ e _Computação_, Pós-graduando (MBA) em Data Science & Analytics pela Universidade de São Paulo (USP).
+**Engenheiro Eletricista** formado pela Universidade Federal do Ceará (2020) com ênfase em _Eletrotécnica_ e _Computação_, Pós-graduando (MBA) em Data Science & Analytics pela Universidade de São Paulo (USP), mestrando pelo Programa de Pós-graduação em Engenharia Elétrica e Computação (PPGEEC) da Univerisdade Federal do Ceará, realizando pesquisa na área de Visão Computacional.
 
 Além de Engenheiro Eletricista, encontro-me em processo de qualificação profissional para me tornar **Cientista de Dados**, tendo como base a Estatística, Machine Learning e Analytics.
 
