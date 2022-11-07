@@ -13,9 +13,8 @@
 
 **Engenheiro Eletricista** formado pela Universidade Federal do Ceará (2020) com ênfase em _Eletrotécnica_ e _Computação_, Pós-graduando (MBA) em Data Science & Analytics pela Universidade de São Paulo (USP), mestrando pelo Programa de Pós-graduação em Engenharia Elétrica e Computação (PPGEEC) da Univerisdade Federal do Ceará, realizando pesquisa na área de Visão Computacional.
 
-Além de Engenheiro Eletricista, encontro-me em processo de qualificação profissional para me tornar **Cientista de Dados**, tendo como base a Estatística, Machine Learning e Analytics.
 
-Como Trabalho Final de Curso (TCC), desenvolvi um método de baixo custo para _**Detecção de Falhas em Células de Módulos Fotovoltaicos Utilizando Visão Computacional.**_
+Como Trabalho Final de Curso (TCC), desenvolvi um método de baixo custo para **Detecção de Falhas em Células de Módulos Fotovoltaicos Utilizando Visão Computacional.**
 
 O trabalho completo pode ser visualizado [**nesse link.**](https://drive.google.com/file/d/1GnKpGAPOuEervRGEGoxBaOFPjrO14g7_/view?usp=sharing)
 
