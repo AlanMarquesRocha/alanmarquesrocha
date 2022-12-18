@@ -13,16 +13,9 @@
 
 **Engenheiro Eletricista** formado pela Universidade Federal do Ceará (2020) com ênfase em _Eletrotécnica_ e _Computação_, Pós-graduando (MBA) em _Data Science & Analytics_ pela Universidade de São Paulo (USP), mestrando pelo Programa de Pós-graduação em Engenharia Elétrica e Computação (PPGEEC) da Univerisdade Federal do Ceará, realizando pesquisa na área de _Visão Computacional_.
 
-
-Como Trabalho Final de Curso (TCC), desenvolvi um método de baixo custo para **Detecção de Falhas em Células de Módulos Fotovoltaicos Utilizando Visão Computacional.**
-
-O trabalho completo pode ser visualizado [**nesse link.**](https://drive.google.com/file/d/1GnKpGAPOuEervRGEGoxBaOFPjrO14g7_/view?usp=sharing)
-
-Já o repositório do projeto com todos os códigos e resultados você encontra [**aqui**](#ref).
-
 ---
 
-## Por fim, possuo expertise nas seguites linguagens e ferramentas: ##
+## Por fim, sempre procuro me aperfeiçoar nas seguintes linguagens e ferramentas: ##
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
