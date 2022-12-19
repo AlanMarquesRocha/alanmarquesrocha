@@ -11,11 +11,13 @@
 
 ## Sobre mim (About me): ##
 
-**Engenheiro Eletricista** formado pela Universidade Federal do Ceará (2020) com ênfase em _Eletrotécnica_ e _Computação_, Pós-graduando (MBA) em _Data Science & Analytics_ pela Universidade de São Paulo (USP), mestrando pelo Programa de Pós-graduação em Engenharia Elétrica e Computação (PPGEEC) da Univerisdade Federal do Ceará, realizando pesquisa na área de _Visão Computacional_.
+**Electrical Engineer** graduated from the Federal University of Ceará (2020) with an emphasis on _Electrotechnics_ and _Computing_, Postgraduate student (MBA) in _Data Science & Analytics_ at the University of São Paulo (USP), doing a master's degree at the Postgraduate Program in Electrical and Computing Engineering (PPGEEC) at the Federal University of Ceará, conducting research in the area of **_Computational Vision_.**
 
 ---
 
-## Por fim, sempre procuro me aperfeiçoar nas seguintes linguagens e ferramentas: ##
+#### Finally, I always try to improve myself in the following languages and tools: ##
+
+---
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
