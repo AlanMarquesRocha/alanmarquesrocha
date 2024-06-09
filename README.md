@@ -9,7 +9,7 @@
 
 ## Sobre mim (About me): ##
 
-**Electrical Engineer** graduated from the Federal University of Ceará (2020) with an emphasis on _Electrotechnics_ and _Computing_, Postgraduate student (MBA) in _Data Science & Analytics_ at the University of São Paulo (USP), doing a master's degree at the Postgraduate Program in Electrical and Computing Engineering (PPGEEC) at the Federal University of Ceará, conducting research in the area of **_Computational Vision_.**
+Bacharel em Engenharia Elétrica pela Universidade Federal do Ceará campus Sobral (UFC, 2021), Possui MBA em Data Science e Analytics pela Escola Superior de Agricultura Luiz de Queiroz da Universidade de São Paulo (USP/ESALQ) e Pós-graduação em Inteligência Artificial e Machine Learning pela Universidade Norte do Paraná (UNOPAR). Atualmente é mestrando pelo Programa de Pós-graduação em Engenharia Elétrica e de Computação (PPGEEC/UFC) e Pós-graduando em Energias Renováveis pelo Instituto Centro de Ensino Tecnológico (CENTEC). Cursou o ensino médio no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE, 2012). Tem interesse nas seguintes áreas de pesquisa: Aprendizado de máquina, Visão Computacional e Reconhecimento de Padrõe
 
 ---
 
