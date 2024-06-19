@@ -13,7 +13,7 @@ Bacharel em Engenharia Elétrica pela Universidade Federal do Ceará campus Sobr
 
 ---
 
-#### Finally, I always try to improve myself in the following languages and tools: ##
+#### Atualmente, tenho me desenvolvido nas seguintes ferramentas: ##
 
 ---
 
