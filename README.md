@@ -9,7 +9,19 @@
 
 ## Sobre mim (About me): ##
 
-Bacharel em Engenharia Elétrica pela Universidade Federal do Ceará campus Sobral (UFC, 2021), Possui MBA em Data Science e Analytics pela Escola Superior de Agricultura Luiz de Queiroz da Universidade de São Paulo (USP/ESALQ) e Pós-graduação em Inteligência Artificial e Machine Learning pela Universidade Norte do Paraná (UNOPAR). Atualmente é mestrando pelo Programa de Pós-graduação em Engenharia Elétrica e de Computação (PPGEEC/UFC) e Pós-graduando em Energias Renováveis pelo Instituto Centro de Ensino Tecnológico (CENTEC). Cursou o ensino médio no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE, 2012). Tem interesse nas seguintes áreas de pesquisa: Aprendizado de máquina, Visão Computacional e Reconhecimento de Padrõe
+Bacharel em Engenharia Elétrica pela Universidade Federal do Ceará campus Sobral (UFC, 2021), Possui MBA em Data Science e Analytics pela Escola Superior de Agricultura Luiz de Queiroz da Universidade de São Paulo (USP/ESALQ) e Pós-graduação em Inteligência Artificial e Machine Learning pela Universidade Norte do Paraná (UNOPAR). Atualmente é mestrando pelo Programa de Pós-graduação em Engenharia Elétrica e de Computação (PPGEEC/UFC) e Pós-graduando em Energias Renováveis pelo Instituto Centro de Ensino Tecnológico (CENTEC). Cursou o ensino médio no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE, 2012). Tem interesse nas seguintes áreas de pesquisa: Aprendizado de máquina, Visão Computacional e Reconhecimento de Padrões ( <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-6446-0263"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-6446-0263
+    </a>)
 
 ---
 
