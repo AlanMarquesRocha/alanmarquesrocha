@@ -24,7 +24,8 @@ Alan Marques da Rocha atualmente é doutorando na área de sinais e sistemas com
 
 ---
 
-![image](https://github.com/user-attachments/assets/d65e0770-8b15-4a32-b329-e5b35cf7e8ce)
+![image](https://github.com/user-attachments/assets/3c783845-3d8d-48d1-b2af-1d85d4e0a1e9)
+
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
