@@ -24,6 +24,8 @@
   </p>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=footer"/>
