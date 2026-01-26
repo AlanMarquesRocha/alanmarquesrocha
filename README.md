@@ -12,10 +12,13 @@
 
 <p align="center">
   <img src="./metrics/languages.svg" alt="Top Languages" width="420" />
-  <img src="./metrics/activity.svg" alt="Recent Activity" width="420" />
 </p>
 
----
+<p align="center>
+   <img src="./metrics/activity.svg" alt="Recent Activity" width="420" />
+</p>
+
+
 
 <div align="center">
   <p><b>Profile Visitor Count</b></p>
@@ -25,7 +28,7 @@
 </div>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="gitblock" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=footer"/>
