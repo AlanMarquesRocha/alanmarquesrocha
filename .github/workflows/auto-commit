@@ -1,0 +1,38 @@
+name: Auto Commits Diários
+
+on:
+  schedule:
+    - cron: '0 9 * * *'   # 1º commit às 09:00 UTC
+    - cron: '0 14 * * *'  # 2º commit às 14:00 UTC
+    - cron: '0 20 * * *'  # 3º commit às 20:00 UTC
+  workflow_dispatch:       # Permite execução manual
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar alteração no arquivo de log
+        run: |
+          mkdir -p logs
+          echo "✅ Commit automático realizado em: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> logs/auto-log.txt
+
+      - name: Configurar Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit e Push
+        run: |
+          git add .
+          git diff --staged --quiet && echo "⚠️ Nada para commitar" && exit 0
+          git commit -m "chore: auto-commit $(date +'%Y-%m-%d %H:%M UTC')"
+          git push
