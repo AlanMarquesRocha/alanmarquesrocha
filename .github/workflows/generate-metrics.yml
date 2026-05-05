@@ -88,7 +88,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name "AlanMarquesRocha"
-          git config user.email "alanmarquesec2@gmail.com"
+          git config user.email "13985581+AlanMarquesRocha@users.noreply.github.com"
           # Copiar os SVGs gerados pelo container do metrics para o repo
           mkdir -p metrics
           cp -r /metrics_renders/metrics/* metrics/ 2>/dev/null || true
