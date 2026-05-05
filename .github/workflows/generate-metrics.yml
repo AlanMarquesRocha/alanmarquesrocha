@@ -1,5 +1,4 @@
 name: Generate GitHub Metrics
-
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
@@ -7,17 +6,16 @@ on:
   push:
     branches:
       - main
-
 permissions:
   contents: write
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
       # Main metrics card
       - name: Generate main metrics
         uses: lowlighter/metrics@latest
@@ -43,7 +41,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_other: no
           plugin_languages_skipped: ${{ github.repository_owner }}
-
       # Languages card
       - name: Generate languages metrics
         uses: lowlighter/metrics@latest
@@ -67,7 +64,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_other: no
           plugin_languages_skipped: ${{ github.repository_owner }}
-
       # Activity card
       - name: Generate activity metrics
         uses: lowlighter/metrics@latest
@@ -85,7 +81,6 @@ jobs:
           plugin_activity_load: 500
           plugin_activity_visibility: all
           plugin_activity_timestamps: yes
-
       # Commit & Push
       - name: Commit & Push
         run: |
